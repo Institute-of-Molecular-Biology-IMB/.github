@@ -44,7 +44,7 @@ The **Institute of Molecular Biology and Biotechnologies (IMBB)** advances data-
 
 | Repozitoriya | Növ | Təsvir | Keçid |
 | :--- | :---: | :--- | :--- |
-| **** |  | İnstitutun rəsmi interaktiv veb-saytı və elmi vizualizasiyaları | [Aç 🌐](https://github.com/Institute-of-Molecular-Biology-IMB/Institute-of-Molecular-Biology-IMB.github.io) |
+| **** |  | İnstitutun rəsmi interaktiv veb-saytı və elmi vizualizasiyaları | [Aç 🌐](https://github.com/Institute-of-Molecular-Biology-IMB/IMB.github.io) |
 | **** |  | Tədqiqat kodları, RStudio layihələri, LFS məlumatları, xam analizlər və sənədlər | [Aç 📁](https://github.com/Institute-of-Molecular-Biology-IMB/IMB) |
 | **** |  | Təşkilat profil səhifəsi və icma resursları | [Aç ⚙️](https://github.com/Institute-of-Molecular-Biology-IMB/.github) |
 
