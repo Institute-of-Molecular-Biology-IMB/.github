@@ -1,5 +1,5 @@
-# 🧬 Institute of Molecular Biology and Biotechnologies (IMBB)
-### AR ETN Molekulyar Biologiya və Biotexnologiyalar İnstitutu PHŞ
+# 🧬 Institute of Molecular Biology (IMB)
+### AR ETN Molekulyar Biologiya İnstitutu PHŞ
 
 [![Website](https://img.shields.io/badge/Website-Live_Portal-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://institute-of-molecular-biology-imb.github.io/)
 [![Location](https://img.shields.io/badge/Location-Baku%2C%20Azerbaijan-06B6D4?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps/baku)
@@ -10,9 +10,9 @@
 
 ## 📌 Haqqımızda / About the Institute
 
-**Molekulyar Biologiya və Biotexnologiyalar İnstitutu (İMB)** fundamental biologiyanı qabaqcıl hesablama metodları, süni intellekt və sistem biologiyası ilə birləşdirən aparıcı elmi-tədqiqat mərkəzidir. 
+**Molekulyar Biologiya İnstitutu (İMB)** fundamental biologiyanı qabaqcıl hesablama metodları, süni intellekt və sistem biologiyası ilə birləşdirən aparıcı elmi-tədqiqat mərkəzidir. 
 
-The **Institute of Molecular Biology and Biotechnologies (IMBB)** advances data-driven biological discovery across computational structural biology, integrative bioinformatics, and plant genomics.
+The **Institute of Molecular Biology (IMB)** advances data-driven biological discovery across computational structural biology, integrative bioinformatics, and plant genomics.
 
 👉 **Rəsmi Veb-Portal / Official Website:** [https://institute-of-molecular-biology-imb.github.io/](https://institute-of-molecular-biology-imb.github.io/)
 
@@ -52,7 +52,7 @@ The **Institute of Molecular Biology and Biotechnologies (IMBB)** advances data-
 
 ## 🏛️ Əlaqə və Ünvan / Contact & Affiliation
 
-* **Qurum:** AR ETN Molekulyar Biologiya və Biotexnologiyalar İnstitutu PHŞ (İMBB)
+* **Qurum:** AR ETN Molekulyar Biologiya İnstitutu PHŞ (İMB)
 * **Ünvan:** İzzət Nəbiyev küç. 11 / İstiqlaliyyət küç. 30, AZ1001, Bakı, Azərbaycan
 * **Elmi Katiblik:** (+994 12) 492-28-35 / 492-28-27
 * **E-poçt:** afig.mammadov@gmail.com
