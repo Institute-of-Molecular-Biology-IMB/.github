@@ -60,6 +60,20 @@ The **Institute of Molecular Biology (IMB)** advances data-driven biological dis
 
 ---
 
+
+---
+
+## 🌐 Rəsmi Veb-Portal Bölmələri / Official Portal Navigation
+
+Axtarış motorlarında (Google, Bing) və veb-portaldakı əsas naviqasiya yolları:
+
+* 🏛️ **[İnstitut Haqqında / About](https://institute-of-molecular-biology-imb.github.io/about/)** — Elmi missiya, hesablama biologiyası mərkəzi
+* 🧬 **[Hesablama Tədqiqatları / Research](https://institute-of-molecular-biology-imb.github.io/research/)** — AlphaFold2, STN7/STN8 dokinq, buğda LT50 və sistem onkologiyası
+* 🏆 **[Beynəlxalq Simpozium & Hakaton / Symposium](https://institute-of-molecular-biology-imb.github.io/symposium/)** — Beynəlxalq Simpozium və “InvestArea” Qarabağ Hakatonu 1-ci yer qalibliyi
+* 📚 **[Elmi Məqalələr / Publications](https://institute-of-molecular-biology-imb.github.io/publications/)** — Acta Crystallographica D, CCP4 və PLOS nəşrləri
+* 🔒 **[Məxfi Məlumat Bazası / Data Portal](https://institute-of-molecular-biology-imb.github.io/data-portal/)** — Qapalı tədqiqat dataları və giriş icazəsi
+* 📮 **[Əlaqə & Ünvan / Contact](https://institute-of-molecular-biology-imb.github.io/contact/)** — Əlaqə məlumatları, poçt və elmi katiblik
+
 ## 🏛️ Əlaqə və Giriş Müraciəti / Contact & Data Access
 
 * **🔒 Data Giriş (Access) Müraciəti:** [suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=IMB%20Data%20Access%20Request)
