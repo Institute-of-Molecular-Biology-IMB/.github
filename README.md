@@ -1,2 +1,3 @@
 # .github
-Organization profile and community health files for Institute of Molecular Biology (IMBB)
+
+Organization profile and community health documentation for the Institute of Molecular Biology (IMB).
